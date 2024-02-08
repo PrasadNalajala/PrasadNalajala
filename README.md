@@ -43,10 +43,6 @@ Bachelor of Science in Computer Science and Industrial Electronics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasadNalajala&show_icons=true&theme=radical)
 
-## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PrasadNalajala/)](https://www.linkedin.com/in/PrasadNalajala/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/PrasadNalajala)](https://twitter.com/PrasadNalajala)
-[![Gmail](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=https://gmail.com/prasadnallajala)](https://google.com/prasadnallajala)
 
 ![](https://komarev.com/ghpvc/?username=PrasadNalajala&color=green)
