@@ -11,17 +11,10 @@ I am a passionate Frontend Developer with experience as a Frontend Developer Int
 
 ## Skills
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <div style="background-image: url(https://img.icons8.com/color/48/000000/javascript--v1.png); width: 80px; height: 80px;"></div>
-    <div style="background-image: url(https://img.icons8.com/color/48/000000/python--v1.png); width: 80px; height: 80px;"></div>
-    <div style="background-image: url(https://img.icons8.com/color/48/000000/c-programming.png); width: 80px; height: 80px;"></div>
-    <div style="background-image: url(https://img.icons8.com/plasticine/100/000000/react.png); width: 80px; height: 80px;"></div>
-    <div style="background-image: url(https://img.icons8.com/color/48/000000/html-5--v1.png); width: 80px; height: 80px;"></div>
-    <div style="background-image: url(https://img.icons8.com/color/48/000000/css3.png); width: 80px; height: 80px;"></div>
-    <div style="background-image: url(https://img.icons8.com/color/48/000000/nodejs.png); width: 80px; height: 80px;"></div>
-    <div style="background-image: url(https://img.icons8.com/color/48/000000/express.png); width: 80px; height: 80px;"></div>
-    <div style="background-image: url(https://img.icons8.com/color/48/000000/sql.png); width: 80px; height: 80px;"></div>
-</div>
+|   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) | ![Python](https://img.icons8.com/color/48/000000/python--v1.png) | ![C Programming](https://img.icons8.com/color/48/000000/c-programming.png) | ![React](https://img.icons8.com/plasticine/100/000000/react.png) | ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) | ![SQL](https://img.icons8.com/color/48/000000/sql.png) |
+
 
 ## Experience
 
