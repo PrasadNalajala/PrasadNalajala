@@ -34,7 +34,8 @@ Bachelor of Science in Computer Science and Industrial Electronics
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasadNalajala&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasadNalajala&show_icons=true&theme=merko&sideNums=2DEBDF)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prasadNalajala&theme=merko&border_radius=3.4&sideNums=2DEBDF" alt="GitHub Streak" /></a>
 
 
 
