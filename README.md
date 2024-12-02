@@ -9,33 +9,44 @@
 
 I am a passionate Frontend Developer with experience as a Frontend Developer Intern at Cuvasol Technologies. My expertise lies in utilizing technologies like React, HTML, CSS, and styled components to create visually appealing and user-friendly web applications.
 
-## Skills
 
-|   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) | ![Python](https://img.icons8.com/color/48/000000/python--v1.png) | ![C Programming](https://img.icons8.com/color/48/000000/c-programming.png) | ![React](https://img.icons8.com/plasticine/100/000000/react.png) | ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) | ![SQL](https://img.icons8.com/color/48/000000/sql.png) |
+<h2>Tech Stack🚀</h2>
+
+<h3>Frameworks, Platforms and Libraries</h3>  
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-%23000000.svg?style=for-the-badge&logo=wix&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
-## Experience
+<h3>Languages</h3>
 
-**Frontend Developer Intern**  
-**Cuvasol Technologies**  
-*September 2023 – December 2023*
-- Collaborated on web development projects as a Frontend Developer Intern, utilizing Wix, Wix Studio, React, HTML, and CSS.
-- Translated design concepts into interactive and responsive user interfaces for engaging web applications.
-- Applied expertise in crafting visually appealing and user-friendly websites to enhance the overall user experience.
-- Contributed effectively within a team environment, actively participating in project development and implementation.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-## Education
 
-**SSBN Degree College Anantapur, India**  
-Bachelor of Science in Computer Science and Industrial Electronics  
-*September 2021 - April 2024*
+<h3>Database & Design</h3>
+
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
 
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasadNalajala&show_icons=true&theme=merko&sideNums=2DEBDF)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prasadNalajala&theme=merko&border_radius=3.4&sideNums=2DEBDF" alt="GitHub Streak" /></a>
+
+
+
+
+
+
 
 
 
