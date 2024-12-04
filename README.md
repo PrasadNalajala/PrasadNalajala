@@ -10,7 +10,7 @@
 I am a passionate Frontend Developer with experience as a Frontend Developer Intern at Cuvasol Technologies. My expertise lies in utilizing technologies like React, HTML, CSS, and styled components to create visually appealing and user-friendly web applications.
 
 
-<h2>Tech Stack🚀</h2>
+<h2>Tech Stack</h2>
 
 <h3>Frameworks, Platforms and Libraries</h3>  
 
