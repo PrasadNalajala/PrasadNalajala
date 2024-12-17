@@ -42,6 +42,9 @@ I am a passionate Frontend Developer with experience as a Frontend Developer Int
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasadNalajala&show_icons=true&theme=merko&sideNums=2DEBDF)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prasadNalajala&theme=merko&border_radius=3.4&sideNums=2DEBDF" alt="GitHub Streak" /></a>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadNalajala&layout=compact&theme=merko)
+
+
 
 
 
